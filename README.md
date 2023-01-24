@@ -1,7 +1,6 @@
-# globalpayments-sfcc
-SalesForce Commerce Cloud - Shopping Cart Plugin for Global Payments
+# SalesForce Commerce Cloud - Shopping Cart Plugin for Global Payments
 
-System Requirements:
+# System Requirements:
 Categories: Payment Processing
 LINK Cartridge version: 22.1.0
 API Fleet and version: Globalpay version 2021-03-22
@@ -10,13 +9,14 @@ Locales: The cartridge is developed and tested for the US locale. The cartridge 
 
 To request credentials, configure the available payment options and receive your LINK key please contact the Global Payments Inc. team.  
 
-Email: salesforce@globalpay.com
+# Email: 
+salesforce@globalpay.com
 
-Installation:
+# Installation:
 For information and tutorials on how to install and configure SFCC cartridges please refer to the Salesforce Commerce Cloud Documentation site. 
 
-Location:
+# Location:
 The Global Payments SFCC cartridge can be obtained from the Salesforce AppExchange. 
 
-Credentials:
+# Credentials:
 The Global Payments SFCC cartridge requires credentials to the Global Payments Unified Commerce Platform. Test credentials can be obtained by registering on the Global Payments Developer Portal. Once registration is complete the required AppKey and AppID can be found under the Unified Payments Apps section of the account management menu. 
