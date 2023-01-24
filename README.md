@@ -1,5 +1,3 @@
-# SalesForce Commerce Cloud - Shopping Cart Plugin for Global Payments
-
 # System Requirements:
 Categories: Payment Processing
 LINK Cartridge version: 22.1.0
