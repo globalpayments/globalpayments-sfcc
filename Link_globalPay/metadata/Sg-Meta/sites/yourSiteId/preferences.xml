@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences xmlns="http://www.demandware.com/xml/impex/preferences/2007-03-31">
+    <custom-preferences>
+        <all-instances/>
+        <development>
+            <preference preference-id="gp_app_id">Rar92ezom1ZCjp3ueZXWqnsxSLS2vnyW</preference>
+            <preference preference-id="gp_app_key">+dcztqAHviMSIDbfQa8XlJMlEl0AU38FW0t3F/1PkQlRu3XwGV7VlNqNzHATTMmq</preference>
+            <preference preference-id="gp_captureMode">LATER</preference>
+            <preference preference-id="gp_clientID">4230946d-3f35-4e91-8303-a51720ba7a5b</preference>
+            <preference preference-id="gp_enable_applepay">true</preference>
+            <preference preference-id="gp_enable_googlepay">true</preference>
+            <preference preference-id="gp_enable_paypal">true</preference>
+            <preference preference-id="gp_env">sandbox</preference>
+            <preference preference-id="gp_gatewayMerchantId">gpapiqa1</preference>
+            <preference preference-id="gp_gpayEnv">TEST</preference>
+            <preference preference-id="gp_gpayMerchantId">MER_7e3e2c7df34f42819b3edee31022ee3f</preference>
+            <preference preference-id="gp_gpayMerchantName">globalpayments</preference>
+        </development>
+        <staging/>
+        <production/>
+    </custom-preferences>
+</preferences>
+
