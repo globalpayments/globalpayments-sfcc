@@ -1,3 +1,5 @@
+# *** This repository is no longer maintained! ***
+
 # System Requirements:
 Categories: Payment Processing
 LINK Cartridge version: 22.1.0
